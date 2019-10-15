@@ -1,7 +1,3 @@
-//  Daniel Paul Grech Pereira
-//  dppereira@myseneca.ca
-//  037747078
-
 #include <stdio.h>
 int main(void)
 {
